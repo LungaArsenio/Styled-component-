@@ -28,7 +28,7 @@ export default function Header() {
               Get started for free
             </Button>
           </div>
-
+  
           <Image src='./images/illustration-mockups.svg' alt=''/>
 
 
