@@ -1,8 +1,10 @@
-# React + Vite
+# Huddle - Styled Components Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JSX - Styled Components
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project comes with the main purpose of demonstrate some techniques of development regarding the use of styled components in react projects, although small, it's a good start to understand the organization, some best practices and thinking in "styling components" in the most efficient way.
+
+
+
+
