@@ -1,3 +1,7 @@
+/**
+ * A way of creating a sort of fake API to better display and manipulate data
+ */
+
 const content = [
   {
     id: 1,
